@@ -1,2 +1,7 @@
 This is first commit
+<<<<<<< HEAD
 This is a conflict commit
+=======
+This is a conflict commit
+THis is a coomit to squash
+>>>>>>> feature/02
